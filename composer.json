@@ -1,0 +1,14 @@
+{
+ 	"autoload": 
+		{
+		    "psr-4": { 
+		    	"Model\\" : "model",
+		    	"Config\\" : "config",
+				"App\\" : "app"
+		    }
+		},
+ 	"require": {
+ 	 	"phpmailer/phpmailer": "^6.0",
+ 	 	"paypal/rest-api-sdk-php": "*"
+ 	}
+}

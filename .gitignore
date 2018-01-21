@@ -1,0 +1,4 @@
+*.log
+model/*
+vendor/*
+*.sql
